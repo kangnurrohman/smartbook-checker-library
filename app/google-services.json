@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "286080004491",
+    "firebase_url": "https://artdroid-180712.firebaseio.com",
+    "project_id": "artdroid-180712",
+    "storage_bucket": "artdroid-180712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286080004491:android:e5142d00810b30d6",
+        "android_client_info": {
+          "package_name": "artdroid.com.ijapen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286080004491-iiodgtgk82lnj8to97nh5tdqb273tsn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "artdroid.com.ijapen",
+            "certificate_hash": "8471d1c0c7adeb1e26302b2745eef8e1d5291b1e"
+          }
+        },
+        {
+          "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "286080004491-lhral98ev515lt1rlum41l9j3pgrc7ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "artdroid.com.ijapen",
+            "certificate_hash": "240efe450f937bc57ec28b90789e3a233235c4bc"
+          }
+        },
+        {
+          "client_id": "286080004491-vbhd32hcuhlolt7vvqtln80dk6rmdqn1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDF2Gh4O64sZc7BwFYLKY7m2NDuN_aig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286080004491:android:351cb20b370b85b3",
+        "android_client_info": {
+          "package_name": "artdroid.com.smartbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286080004491-13mr80rm80ta21004hgq8gq5pti5p9r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "artdroid.com.smartbook",
+            "certificate_hash": "240efe450f937bc57ec28b90789e3a233235c4bc"
+          }
+        },
+        {
+          "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "286080004491-vbhd32hcuhlolt7vvqtln80dk6rmdqn1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDF2Gh4O64sZc7BwFYLKY7m2NDuN_aig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286080004491-f990tibfc2al2g4m710c2plpg5s84rle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
