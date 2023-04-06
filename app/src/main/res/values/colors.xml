@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#ffbf00</color>
+    <color name="colorPrimary">#ffe030</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="button_pressed">#ffec7e</color>
+    <color name="button_focused">#ffbf00</color>
+    <color name="button_default">#ffe030</color>
+
+    <color name="text_default">#000000</color>
+    <color name="text_blue">#08f1e9</color>
+
+    <color name="viewBg">#f8f8f8</color>
+    <color name="btn_disabled">#999</color>
+    <color name="lbl_value">#222222</color>
+</resources>

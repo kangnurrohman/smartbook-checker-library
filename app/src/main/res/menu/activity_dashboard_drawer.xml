@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_statusdirak"
+            android:icon="@drawable/ic_status"
+            android:title="Status Buku Di Rak" />
+        <item
+            android:id="@+id/nav_statusdiambil"
+            android:icon="@drawable/ic_status"
+            android:title="Status Buku Diambil" />
+        <item
+            android:id="@+id/nav_statustidakkembali"
+            android:icon="@drawable/ic_status"
+            android:title="Status Buku Tidak Kembali" />
+        <item
+            android:id="@+id/nav_laporantidakada"
+            android:icon="@drawable/ic_laporan"
+            android:title="Laporan Buku Tidak Ada" />
+        <item
+            android:id="@+id/nav_grafik"
+            android:icon="@drawable/ic_grafik"
+            android:title="Grafik" />
+        <item
+            android:id="@+id/nav_input"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Input Buku" />
+
+    </group>
+
+</menu>

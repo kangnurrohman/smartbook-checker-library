@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="artdroid.com.smartbook.Input"
+    tools:showIn="@layout/activity_input">
+
+
+    <EditText
+        android:id="@+id/inputnamapengarang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama User"/>
+    <EditText
+        android:id="@+id/inputnamapengarang1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Prodi (Jika Role Mahasiswa)"/>
+    <EditText
+        android:id="@+id/inputidkolom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"/>
+    <EditText
+        android:id="@+id/inputidkolom1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password Ulang"/>
+
+    <Button
+        android:id="@+id/buttonChoose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="Tambah User"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Role :" />
+
+    <RadioButton
+        android:id="@+id/radioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pustakawan" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mahasiswa" />
+
+
+</LinearLayout>
